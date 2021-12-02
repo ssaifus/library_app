@@ -1,0 +1,8 @@
+POST http://localhost:3000/add-new-post
+content-Type: application/json
+
+{
+    "Book_name":"Introduction to Algorithms",
+    "Issuer_name": "Catherine",
+    "Due_date": "02-01-2022"
+}
